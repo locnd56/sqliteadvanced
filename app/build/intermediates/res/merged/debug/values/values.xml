@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/FSS/Learning/learningsqliteadvance/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/FSS/Learning/learningsqliteadvance/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="add_author">Thêm Tác giả</string>
+    <string name="add_book">Thêm sách</string>
+    <string name="add_new_author">Thêm mới tác giả</string>
+    <string name="app_name">LearningSQLiteAdvance</string>
+    <string name="author">Tác giả: </string>
+    <string name="author_id">Mã tác giả: </string>
+    <string name="author_name">Tên tác giả: </string>
+    <string name="book_name">Tên sách</string>
+    <string name="booksmanager">Quản lý sách</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Xóa</string>
+    <string name="female">Female</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="id">STT</string>
+    <string name="male">Male</string>
+    <string name="question_remove"/>
+    <string name="release_date">Ngày xuất bản</string>
+    <string name="save">Lưu tác giả</string>
+    <string name="showListAuthors">Xem danh sách Tác giả</string>
+    <string name="update">Update</string>
+    <!-- From: file:/D:/FSS/Learning/learningsqliteadvance/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

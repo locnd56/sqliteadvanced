@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00FF00"
+        android:gravity="center_horizontal"
+        android:text="@string/booksmanager"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_addauthor"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:text="@string/add_author"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_showlistauthors"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:text="@string/showListAuthors"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_booksmanager"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:text="@string/add_author"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+    <Button
+        android:id="@+id/btn_mainactivity_clear"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:text="@string/add_author"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+</LinearLayout><!-- From: file:/D:/FSS/Learning/learningsqliteadvance/app/src/main/res/layout/activity_main.xml -->
