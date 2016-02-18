@@ -8,3 +8,7 @@ build/
 local.properties
 .idea
 learningsqliteadvance.iml
+.classpath
+.settings
+/gradle
+project.properties
