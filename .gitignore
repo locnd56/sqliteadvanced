@@ -1,7 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-# built application files
-*.apk
-*.ap_
 *.dex
 *.class
 bin/
